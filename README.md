@@ -6,7 +6,7 @@
 |14 to 150 | -22 |  [GET](wav/14-to-150_FT8_-22.wav) | [GET](wav/14-to-150_CW.wav) | [GET](wav/14-to-150_CW_300hz.wav) | [GET](wav/14-to-150_CW_100hz.wav) |
 |15 to 150 | -21 |  [GET](wav/15-to-150_FT8_-21.wav) | [GET](wav/15-to-150_CW.wav) | [GET](wav/15-to-150_CW_300hz.wav) | [GET](wav/15-to-150_CW_100hz.wav) |
 |20 to 150 | -18 |  [GET](wav/20-to-150_FT8_-18.wav) | [GET](wav/20-to-150_CW.wav) | [GET](wav/20-to-150_CW_300hz.wav) | [GET](wav/20-to-150_CW_100hz.wav) |
-|25 to 150 | -17 |  [GET](wav/25-to-150_FT8_-17.wav) | [GET](wav/25-to-150_CW.wav) | [GET](wav/25-to-150_CW_300hz.wav) | [GET](wav/25-to-150_CW_100hz.wav) |
+|25 to 150 | -17 |  [GET](wav/25-to-150_FT8_-17.wav) | [GET](wav/25-to-150_CW.wav) | [GET](wav/25-to-150_CW_300hz.wav) | [GET](wav/25-to-150_CW_100hz.wav) | [GET](wav/25-to-150_CW_20hz.wav) |
 |30 to 150 | -15 |  [GET](wav/30-to-150_FT8_-15.wav) | [GET](wav/30-to-150_CW.wav) | [GET](wav/30-to-150_CW_300hz.wav) | [GET](wav/30-to-150_CW_100hz.wav) | [GET](wav/30-to-150_CW_20hz.wav) |
 |35 to 150 | -14 |  [GET](wav/35-to-150_FT8_-14.wav) | [GET](wav/35-to-150_CW.wav) | [GET](wav/35-to-150_CW_300hz.wav) | [GET](wav/35-to-150_CW_100hz.wav) | [GET](wav/35-to-150_CW_20hz.wav) |
 |40 to 150 | -13 |  [GET](wav/40-to-150_FT8_-13.wav) | [GET](wav/40-to-150_CW.wav) | [GET](wav/40-to-150_CW_300hz.wav) | [GET](wav/40-to-150_CW_100hz.wav) |
